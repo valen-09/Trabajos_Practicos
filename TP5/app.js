@@ -1,3 +1,4 @@
+//TP 5
 let numero1 = 10;
 let numero2 = 10;
 let resta = 0; 
