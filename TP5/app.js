@@ -34,7 +34,7 @@ let comidafavorita = "pastas"
 let colorfavorito = "Bordo"
 let numerofavorito = 7 
 
-console.log( "mi comida favorita son las" + comidafavorita + ", me gusta el color" + colorfavorito + " y mi numero favorito es " + numerofavorito)
+console.log( "mi comida favorita son las " + comidafavorita + ", me gusta el color " + colorfavorito + " y mi numero favorito es " + numerofavorito)
  
 let pais = "Argentina"
 console.log(pais)
