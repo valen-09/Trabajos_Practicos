@@ -36,9 +36,9 @@ let numerofavorito = 7
 
 console.log( "mi comida favorita son las" + comidafavorita + ", me gusta el color" + colorfavorito + " y mi numero favorito es " + numerofavorito)
  
-let pais = Argentina 
+let pais = "Argentina"
 console.log(pais)
- pais = brasil 
+ pais = "brasil"
  console.log(pais)
 
 
