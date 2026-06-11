@@ -16,11 +16,11 @@ console.log("el resultado de la multiplicacion es:" + multiplicacion)
 alert("el resultado de la suma es:" + suma)
 alert("el resultado de la resta es:" + resta)
 
-let nombrealumno = 'bautista';
-let apellidoalumno = 'peri';
-let Edadalumno = 15;
+let nombrealumno = 'valentina';
+let apellidoalumno = 'ardovino';
+let Edadalumno = 14;
 
-console.log("el alumno es: " + nombrealumno + " " + apellidoalumno + " tiene " + Edadalumno + " años" )
+console.log("la alumna es: " + nombrealumno + " " + apellidoalumno + " tiene " + Edadalumno + " años" )
 
 let precio1 = 10
 let precio2 = 20
@@ -29,11 +29,16 @@ let total = precio1 + precio2 + precio3
 
 console.log("el precio a pagar es: " + total)
 
-let comidafavorita = pastas
-let colorfavorito = Bordo 
+let comidafavorita = "pastas"
+let colorfavorito = "Bordo"
 let numerofavorito = 7 
 
-console.log( "mi comida favorita son las" + comidafavorita)
+console.log( "mi comida favorita son las" + comidafavorita + ", me gusta el color" + colorfavorito + " y mi numero favorito es " + numerofavorito)
+ 
+let pais = Argentina 
+console.log(pais)
+ pais = brasil 
+ console.log(pais)
 
 
 
