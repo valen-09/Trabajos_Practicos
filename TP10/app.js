@@ -1,0 +1,1 @@
+let utiles = ['lapiz','goma','regla','cuaderno','lapicera']
